@@ -65,10 +65,7 @@
                 <img src="<?php echo base_url(); ?>/public/baker/img/librarylogo.png" alt="Logo" style="height:200px; margin-bottom: 0px; padding-bottom: 0px;">
                 <h2 class="bnr-sub-title" style="margin-top: 0px; padding-top: 10px;">WELCOME TO HOLY CROSS E-LIBRARY</h2>
                 <br>
-                <p class="bnr-para">The library of the school, the Learning Resource Center, occupies the fourth floor 
-                  of the Learning Resource Center Building, and is being managed by the Library Services Division under 
-                  the Student Affairs and Services Department. The Library Services Division provides access to the 
-                  information and handles the information needs of its constituents.</p>
+                <p class="bnr-para">a</p>
                 <!-- <div class="brn-btn">
                   <a href="#" class="btn btn-download" ><strong>Search book now!</strong></a>
                 </div> -->

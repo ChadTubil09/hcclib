@@ -65,7 +65,7 @@
                 <img src="<?php echo base_url(); ?>/public/baker/img/librarylogo.png" alt="Logo" style="height:200px; margin-bottom: 0px; padding-bottom: 0px;">
                 <h2 class="bnr-sub-title" style="margin-top: 0px; padding-top: 10px;">WELCOME TO HOLY CROSS E-LIBRARY</h2>
                 <br>
-                <p class="bnr-para">a</p>
+                <p class="bnr-para">asdasd</p>
                 <!-- <div class="brn-btn">
                   <a href="#" class="btn btn-download" ><strong>Search book now!</strong></a>
                 </div> -->
